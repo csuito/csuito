@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos 👋
 
-<br />
+---
 
 #### I'm a Full-stack developer with experience designing and developing professional software solutions.</p>
 
@@ -15,8 +15,6 @@
 [1]: mailto:suitoschacht@gmail.com
 [2]: https://www.linkedin.com/in/csuito/
 [3]: https://twitter.com/ccssuuiittoo
-
-<br />
 
 ##### ⚡ Tech Stack:
 
