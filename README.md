@@ -1,10 +1,10 @@
-### Hi there, I'm Carlos 👋
+## Hi there, I'm Carlos 👋
 
 <br />
 
-## I'm a Full-stack developer with experience designing and developing professional software solutions.</p>
+### I'm a Full-stack developer with experience designing and developing professional software solutions.</p>
 
-## Passionate about blockchain technology and Web3.</p>
+### Passionate about blockchain technology and Web3.</p>
 
 <br />
 
