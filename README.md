@@ -2,9 +2,11 @@
 
 <br />
 
-<p>I'm a Full-stack developer with experience designing and developing professional software solutions.</p>
+## I'm a Full-stack developer with experience designing and developing professional software solutions.</p>
 
-<p>Passionate about blockchain technology and Web3.</p>
+## Passionate about blockchain technology and Web3.</p>
+
+<br />
 
 [<img src="https://img.shields.io/badge/suitoschacht@gmail.com-orange?style=for-the-badge&logo=google"/>][1]
 [<img src="https://img.shields.io/badge/linkedin-csuito-blue?style=for-the-badge&logo=linkedin"/>][2]
@@ -14,7 +16,9 @@
 [2]: https://www.linkedin.com/in/csuito/
 [3]: https://twitter.com/ccssuuiittoo
 
-:computer: Tech Stack: 
+<br />
+
+:computer: Tech Stack:
 
 <br/>
 
