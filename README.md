@@ -1,12 +1,11 @@
-#### Hi there, I'm Carlos 👋
-
+### Hi there, I'm Carlos 👋
 ---
 
-###### I'm a Full-stack developer with experience designing and developing professional software solutions.</p>
+##### I'm a Full-stack developer with experience designing and developing professional software solutions.</p>
 
-###### Passionate about blockchain technology and Web3.</p>
+##### Passionate about blockchain technology and Web3.</p>
 
-###### 📫 You can reach me at:
+##### 📫 You can reach me at:
 
 [<img src="https://img.shields.io/badge/suitoschacht@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/>][1]
 [<img src="https://img.shields.io/badge/linkedin-csuito-0A66C2?style=for-the-badge&logo=linkedin&labelColor=30333a"/>][2]
@@ -16,7 +15,7 @@
 [2]: https://www.linkedin.com/in/csuito/
 [3]: https://twitter.com/ccssuuiittoo
 
-###### ⚡ Tech Stack:
+##### ⚡ Tech Stack:
 
 ![Git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
