@@ -2,11 +2,16 @@ Full-stack developer - passionate about blockchain technology.
 
 <!--[<img src="https://img.shields.io/badge/suitoschacht@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/>][1]-->
 [<img src="https://img.shields.io/badge/linkedin-csuito-0A66C2?style=for-the-badge&logo=linkedin&labelColor=30333a"/>][2]
+
+<!--
 [<img src="https://img.shields.io/badge/twitter-@ccssuuiittoo-white?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=30333a"/>][3]
+-->
 
 <!--[1]: mailto:suitoschacht@gmail.com-->
 [2]: https://www.linkedin.com/in/csuito/
+<!--
 [3]: https://twitter.com/ccssuuiittoo
+-->
 
 <!---
 ##### ⚡ Tech Stack:
