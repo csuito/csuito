@@ -1,4 +1,4 @@
-Full-stack developer - passionate about blockchain technology and Web3.
+Full-stack developer - passionate about blockchain technology.
 
 <!--[<img src="https://img.shields.io/badge/suitoschacht@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/>][1]-->
 [<img src="https://img.shields.io/badge/linkedin-csuito-0A66C2?style=for-the-badge&logo=linkedin&labelColor=30333a"/>][2]
